@@ -1,0 +1,7 @@
+[01-Jul-2020 05:03:04 UTC] PHP Notice:  Undefined index: subject in /home/l0djlyy43o3h/public_html/mailer/mailer.php on line 3
+[01-Jul-2020 05:03:04 UTC] PHP Notice:  Undefined index: message in /home/l0djlyy43o3h/public_html/mailer/mailer.php on line 6
+[01-Jul-2020 05:03:04 UTC] PHP Notice:  Undefined index: to in /home/l0djlyy43o3h/public_html/mailer/mailer.php on line 9
+[01-Jul-2020 05:03:04 UTC] PHP Notice:  Undefined index: to in /home/l0djlyy43o3h/public_html/mailer/mailer.php on line 16
+[01-Jul-2020 05:03:04 UTC] PHP Notice:  Undefined index: from in /home/l0djlyy43o3h/public_html/mailer/mailer.php on line 17
+[01-Jul-2020 05:30:39 UTC] PHP Notice:  Undefined index: hash in /home/l0djlyy43o3h/public_html/mailer/api/sec.php on line 4
+[01-Jul-2020 05:31:24 UTC] PHP Notice:  Undefined index: hash in /home/l0djlyy43o3h/public_html/mailer/api/sec.php on line 4
